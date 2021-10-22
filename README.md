@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmitKumarPawar
 - 👀 I’m interested in IoT and ML.
-- 🌱 I’m currently learning ML and its correlation with IoT.
+- 🌱 I’m currently learning ML and its application with IoT.
 - 📫 How to reach me ... pawar.amit11103@gmail.com (9617430538)
 
 <!---
